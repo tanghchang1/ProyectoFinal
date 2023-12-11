@@ -87,3 +87,5 @@ doble obtener altura()
 conjunto vacíoAltura(doble altura)
 Cadena getCondicionesPreexistentes()
 void setPreexistingConditions(Cadena condiciones preexistentes)
+
+
